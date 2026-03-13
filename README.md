@@ -2,6 +2,9 @@
 
 A high-precision Bash utility designed to measure true network throughput on Linux systems by querying hardware statistics directly.
 
+<img width="631" height="193" alt="Screenshot From 2026-03-13 16-18-55" src="https://github.com/user-attachments/assets/b232b286-d828-4763-b77d-d35a03fe5677" />
+
+
 ## 🛠 Why This Script?
 
 Standard speed test tools often suffer from "CLI Lag" or "Disk Bottlenecks." This script is engineered specifically for **Gigabit (1000 Mbps)** environments using three specialist techniques:
