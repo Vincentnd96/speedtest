@@ -58,4 +58,3 @@ $$Throughput (Mbps) = \frac{(\Delta Bytes \times 8)}{Duration (seconds) \times 1
 * **Stealth Mode:** Uses browser-mimicking User-Agents and Referer headers to avoid being blocked by CDN firewalls.
 
 ---
-*Created by the Network Specialist & Intern Team.*
